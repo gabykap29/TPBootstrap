@@ -5,3 +5,10 @@ h3:hover{
     color: black;
 
 }
+
+a{
+    color: aliceblue;
+}
+a:hover{
+        color: black;
+}
